@@ -1,5 +1,5 @@
 # chraporuszacz
-Yes, this is just one file. And you know what? THIS IS ENOUGH.
+Yes, this is just one file (two with readme). And you know what? THIS IS ENOUGH.
 
 ## Desire
 The program moves your mouse. Do you want to be skype-available, while you're sleeping? Use my program freely!
