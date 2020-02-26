@@ -1,3 +1,5 @@
+#todo: translate readme to English :)
+
 # Chraporuszacz
 
 Projekt zawiera prostego bota służącego do ciągłego poruszania się kursora myszy w sposób całkowicie automatyczny wraz z przeznaczonym do tego GUI.
